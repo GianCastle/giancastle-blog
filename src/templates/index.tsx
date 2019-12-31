@@ -93,7 +93,6 @@ export interface IndexProps {
 const IndexPage: React.FC<IndexProps> = props => {
   const width = props.data.header.childImageSharp.fluid.sizes.split(', ')[1].split('px')[0];
   const height = String(Number(width) / props.data.header.childImageSharp.fluid.aspectRatio);
-
   return (
     <IndexLayout css={HomePosts}>
       <Helmet>
@@ -180,7 +179,7 @@ export default IndexPage;
 
 export const pageQuery = graphql`
   query blogPageQuery($skip: Int!, $limit: Int!) {
-    logo: file(relativePath: { eq: "img/ghost-logo.png" }) {
+    logo: file(relativePath: { eq: "img/giancastle-white.png" }) {
       childImageSharp {
         # Specify the image processing specifications right in the query.
         # Makes it trivial to update as your page's design changes.

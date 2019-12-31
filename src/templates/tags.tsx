@@ -104,7 +104,7 @@ const Tags: React.FC<TagTemplateProps> = props => {
                   tagData.node.description
                 ) : (
                   <>
-                    A collection of {totalCount > 1 && `${totalCount} posts`}
+                    Una colección de {totalCount > 1 && `${totalCount} posts`}
                     {totalCount === 1 && '1 post'}
                     {totalCount === 0 && 'No posts'}
                   </>

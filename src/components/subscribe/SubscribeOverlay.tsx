@@ -25,7 +25,6 @@ const SubscribeOverlay = styled.div<SubscribeOverlayProps>`
   transition: opacity 200ms ease-in;
   pointer-events: ${(props: SubscribeOverlayProps) => (props.open ? 'auto' : 'none')};
   backdrop-filter: blur(3px);
-
   form {
     display: flex;
     justify-content: center;

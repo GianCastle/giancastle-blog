@@ -2,8 +2,8 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'GianCastle\'s Blog',
-    description: 'A simple hobby, a funny habit.',
+    title: 'GianCastle',
+    description: 'Un simple habito, un profundo desahogo',
     siteUrl: 'https://giancastle.com', // full path to blog - no ending slash
   },
   mapping: {
@@ -63,7 +63,7 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: 'gatsby-plugin-google-analytics',
       options: {
         trackingId: 'UA-XXXX-Y',
         // Puts tracking script in the head instead of the body

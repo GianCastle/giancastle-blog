@@ -50,6 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'GianCastle',
+  logo: 'img/giancastle-white.png',
   description: 'Un simple habito, un profundo desahogo',
   coverImage: 'img/blog-cover.jpg',
   lang: 'es',
