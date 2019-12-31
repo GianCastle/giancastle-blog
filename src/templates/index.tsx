@@ -104,6 +104,7 @@ const IndexPage: React.FC<IndexProps> = props => {
         <meta property="og:title" content={config.title} />
         <meta property="og:description" content={config.description} />
         <meta property="og:url" content={config.siteUrl} />
+        <meta name="google-site-verification" content="DlUfVqtoaxUPMQWq4IKax4nPhkcFV8Zzu1sjkYEPUyM" />
         <meta
           property="og:image"
           content={`${config.siteUrl}${props.data.header.childImageSharp.fluid.src}`}
