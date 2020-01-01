@@ -52,7 +52,7 @@ const config: WebsiteConfig = {
   title: 'GianCastle',
   logo: 'img/giancastle-white.png',
   description: 'Un simple habito, un profundo desahogo',
-  coverImage: 'img/blog-cover.jpg',
+  coverImage: 'img/oceans.jpg',
   lang: 'es',
   siteUrl: 'https://giancastle.com',
   facebook: 'https://www.facebook.com/giancastle',
