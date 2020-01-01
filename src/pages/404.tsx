@@ -75,9 +75,9 @@ const NotFoundPage: React.FC<NotFoundTemplateProps> = props => {
           <div css={inner}>
             <section style={{ textAlign: 'center' }}>
               <ErrorCode>404</ErrorCode>
-              <ErrorDescription>Page not found</ErrorDescription>
+              <ErrorDescription>No encontró lo que buscas</ErrorDescription>
               <Link css={ErrorLink} to="">
-                Go to the front page →
+                Ir a la página principal →
               </Link>
             </section>
           </div>
