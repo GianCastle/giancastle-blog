@@ -16,8 +16,8 @@ A principios de diciembre, cené con un compañero y empezamos a hablar de nuest
 
 *Parte de mi enorme lista de cosas por hacer el año pasado*
 
->-  "Supongo que eso es cierto", dije. "¿Cuál es tu resolución?"
->
+> -  "Supongo que eso es cierto", dije. "¿Cuál es tu resolución?"
+
 > - "Esto va a sonar medio ridiculo, pero mi resolución es ser más amable conmigo mismo", dijo.
 
 Me quedé unos segundos pensando y exclamé:
@@ -37,7 +37,7 @@ En lugar de concentrarte en lo que no has terminado, en lo que fallaste, mejor a
 
 Las cosas no siempre saldrán como tú quieres. Te encontrarás con frustraciones, se producirán pérdidas, cometerás errores, te toparás con tus limitaciones, no alcanzarás tus objetivos. Esta es nuestra condición como humanos, una realidad compartida por todos nosotros.
 
-Para averiguar cuán autocompasivo es usted, pruébese a sí mismo usando la escala de autocompasión de Neff. Luego puede trabajar para aumentar su autocompasión usando algunos de los ejercicios disponibles en su sitio web.
+Para averiguar cuán autocompasivo eres, pruebate a ti mismo usando la escala de autocompasión de Neff. Luego puede trabajar para aumentar su autocompasión usando algunos de los ejercicios disponibles en su sitio web.
 
 ## Calla al criticón que llevas dentro
 
