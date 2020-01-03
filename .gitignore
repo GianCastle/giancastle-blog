@@ -5,6 +5,10 @@
 # Build directory
 public/
 
+# IntelliJ
+
+.idea
+
 # Gatsby cache
 .cache/
 
