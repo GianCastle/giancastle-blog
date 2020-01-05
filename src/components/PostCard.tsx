@@ -175,13 +175,23 @@ const AuthorProfileImage = styled.img`
   display: block;
   width: 100%;
   height: 100%;
-  /* background: color(var(--lightgrey) l(+10%)); */
   background: ${lighten('0.1', colors.lightgrey)};
   border-radius: 100%;
   object-fit: cover;
 `;
 
 const ReadingTime = styled.span`
+  flex-shrink: 0;
+  margin-left: 20px;
+  color: ${colors.midgrey};
+  font-size: 1.2rem;
+  line-height: 33px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+`;
+
+const AuthorNameMeta = styled.p`
   flex-shrink: 0;
   margin-left: 20px;
   color: ${colors.midgrey};
