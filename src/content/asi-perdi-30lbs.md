@@ -47,7 +47,7 @@ Puedes hacer dieta, puedes tener un estilo alimenticio sano. Sin embargo, el aco
 
 Una de mis excusas para no ir al gimnasio el año pasado fue que el gimnasio me tenía **totalmente aburrido**. Casi una hora y media haciendo lo mismo siempre... empujar y halar mancuerdas, barras con discos. La realidad era que además de ser alguien que prefiere un acondicionamiento atletico ante el estetico, me estaba dando cuenta que al gimnasio estaba yendo sin ningún enfoque, objetivo o meta a corto plazo. Solo iba por ir y eso es un grave error.
 
-Antes de volver al gimnasio trabajé mi mentalidad de manera tal que cree un pequeño plan  en el donde creaba cierto dinamismo en mis entrenamientos. Convertí mis entrenamientos son las rutinas estilo torso/pierna. Estas rutinas son excelentes para principiantes y para un rápido acondicionamiento fisico. Como su nombre lo explica, esta rutina es fácil reconocer por las siguientes caracteristicas:
+Antes de volver al gimnasio trabajé mi mentalidad de manera tal que cree un pequeño plan  en el donde creaba cierto dinamismo en mis entrenamientos. Convertí mis entrenamientos en las rutinas estilo torso/pierna. Estas rutinas son excelentes para principiantes y para un rápido acondicionamiento fisico. Como su nombre lo explica, esta rutina es fácil reconocer por las siguientes caracteristicas:
 
 - Su repartición y frecuencia de entrenamientos (un día torso, el día siguiente piernas)
 - Un gran enfoque a ejercicios multiarticulares (Press de Banca, Dominadas, Sentadillas, Peso Muerto, etc.)
