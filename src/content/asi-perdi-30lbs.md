@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Gian
-title: 'Perdí 30 libras. Esto fue lo que hice (PT.1)'
+title: 'Perdí 30 libras en 12 semanas. Esto fue lo que hice (intro)'
 date: 2020-01-07 00:06:15
 tags: ["Divergente"]
 draft: false
@@ -43,7 +43,7 @@ Puedes hacer dieta, puedes tener un estilo alimenticio sano. Sin embargo, el aco
 
 Una de mis excusas para no ir al gimnasio el año pasado fue que el gimnasio me tenía **totalmente aburrido**. Casi una hora y media haciendo lo mismo siempre... empujar y halar mancuerdas, barras con discos. La realidad era que además de ser alguien que prefiere un acondicionamiento atletico ante el estetico como se suele buscar en un gimnasio, me estaba dando cuenta que al gimnasio estaba yendo sin ningún enfoque, objetivo o meta a corto plazo.
 
-Al momento de volver al gimnasio a inicios de noviembre, mis entrenamientos del gimnasio son las rutinas estilo torso/pierna. Estas rutinas son excelentes para principiantes y para un rápido acondicionamiento fisico. Como su nombre lo explica, esta rutina es fácil reconocer por las siguientes caracteristicas:
+Al momento de volver al gimnasio, mis entrenamientos del gimnasio son las rutinas estilo torso/pierna. Estas rutinas son excelentes para principiantes y para un rápido acondicionamiento fisico. Como su nombre lo explica, esta rutina es fácil reconocer por las siguientes caracteristicas:
 
 - Su repartición y frecuencia de entrenamientos (un día torso, el día siguiente piernas)
 - Un gran enfoque a ejercicios multiarticulares (Press de Banca, Dominadas, Sentadillas, Peso Muerto, etc.)
