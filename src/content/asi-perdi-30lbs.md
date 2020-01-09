@@ -22,8 +22,7 @@ Esto me trajo como consecuencia varios puntos que me afectaron tanto emocional c
 - Perdí totalmente mi fuerza de agarre. No podía sostenerme de una barra por unos cuantos segundos.
 - Tenía ciertos punzones en el corazón de vez en cuando. Un electrocardiograma arrojó que tenía una leve pericarditis (inflamación del pericardio por retención de líquidos)
 
-No soporte la idea de seguir en este trético estado, por lo que inmediatamente puse cartas en el asunto. En esta primera parte estaré introducciendo los pasos que tomé psicologico
-
+No soporte la idea de seguir en este trético estado, por lo que inmediatamente puse cartas en el asunto. 
 <hr />
 
 ##### Cambié mi enfoque
