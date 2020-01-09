@@ -35,7 +35,7 @@ Tal vez esto te suene un poco confuso ya que inmediatamente relacionamos el term
 
 **¿Sigues a alguien en las redes que siempre tienen un fisico estetico?**
 
-Por lo regular, estas personas quitan esta palabra de su vocabulario, la reemplazaron por alguna una palabra como *nutricion*. Estas personas disfrutan de un estilo de vida saludable. Cuando haces algo y amas lo que haces, es una sencillez mantenerlo por largos periodos de tiempo.
+Por lo regular, estas personas quitan esta palabra de su vocabulario, la reemplazaron por alguna otra palabra como *nutricion*. Estas personas disfrutan de un estilo de vida saludable. Cuando haces algo y amas lo que haces, es una sencillez mantenerlo por largos periodos de tiempo.
 
 Si el método que usas para bajar de peso y disminuir los niveles de grasa corporal están basados en la privación y eliminación de ciertos alimentos, entonces es probable que no vas a ser capaz de sostener esto por siempre. A lo que me refiero es sencillo, que en algún punto vas a terminar ganando de nuevo ese peso o incluso mucho más; y ese no es el enfoque correcto. Debes de adoptar un estilo de vida alimenticio saludable y basarlo alrededor de comidas **aceptables**. Con aceptable me refiero a que debes de alimentarte institivamente (comer lo necesario y no de más) y a apreder a seleccionar tus comidas.
 
