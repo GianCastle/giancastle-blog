@@ -37,7 +37,7 @@ Tal vez esto te suene un poco confuso ya que inmediatamente relacionamos el term
 
 Por lo regular, estas personas quitan esta palabra de su vocabulario, la reemplazaron por alguna otra palabra como *nutricion*. Estas personas disfrutan de un estilo de vida saludable. Cuando haces algo y amas lo que haces, es una sencillez mantenerlo por largos periodos de tiempo.
 
-Si el método que usas para bajar de peso y disminuir los niveles de grasa corporal están basados en la privación y eliminación de ciertos alimentos, entonces es probable que no vas a ser capaz de sostener esto por siempre. A lo que me refiero es sencillo, que en algún punto vas a terminar ganando de nuevo ese peso o incluso mucho más; y ese no es el enfoque correcto. Debes de adoptar un estilo de vida alimenticio saludable y basarlo alrededor de comidas **aceptables**. Con aceptable me refiero a que debes de alimentarte institivamente (comer lo necesario y no de más) y a apreder a seleccionar tus comidas.
+Si el método que usas para bajar de peso y disminuir los niveles de grasa corporal están basados en la privación y eliminación de ciertos alimentos, entonces es probable que no vas a ser capaz de sostener esto por siempre. A lo que me refiero es sencillo, que en algún punto vas a terminar ganando de nuevo ese peso o incluso mucho más; y ese no es el enfoque correcto. Debes de adoptar un estilo de vida alimenticio saludable y basarlo alrededor de comidas **aceptables**. Con aceptable me refiero a que debes de alimentarte institivamente (comer lo necesario y no de más) y a aprender a seleccionar tus comidas.
 
 Puedes hacer dieta, puedes tener un estilo alimenticio sano. Sin embargo, el acondicionamiento fisico, el movimiento de nuestras fibras musculares es fundamental en cualquier aspectos de nuestras vidas. Por lo que también...
 
@@ -45,7 +45,7 @@ Puedes hacer dieta, puedes tener un estilo alimenticio sano. Sin embargo, el aco
 
 Una de mis excusas para no ir al gimnasio el año pasado fue que el gimnasio me tenía **totalmente aburrido**. Casi una hora y media haciendo lo mismo siempre... empujar y halar mancuerdas, barras con discos. La realidad era que además de ser alguien que prefiere un acondicionamiento atletico ante el estetico como se suele buscar en un gimnasio, me estaba dando cuenta que al gimnasio estaba yendo sin ningún enfoque, objetivo o meta a corto plazo.
 
-Al momento de volver al gimnasio, mis entrenamientos del gimnasio son las rutinas estilo torso/pierna. Estas rutinas son excelentes para principiantes y para un rápido acondicionamiento fisico. Como su nombre lo explica, esta rutina es fácil reconocer por las siguientes caracteristicas:
+Al momento de volver al gimnasio, mis entrenamientos son las rutinas estilo torso/pierna. Estas rutinas son excelentes para principiantes y para un rápido acondicionamiento fisico. Como su nombre lo explica, esta rutina es fácil reconocer por las siguientes caracteristicas:
 
 - Su repartición y frecuencia de entrenamientos (un día torso, el día siguiente piernas)
 - Un gran enfoque a ejercicios multiarticulares (Press de Banca, Dominadas, Sentadillas, Peso Muerto, etc.)
@@ -54,9 +54,9 @@ Al momento de volver al gimnasio, mis entrenamientos del gimnasio son las rutina
 No siempre voy al gimnasio. Me apasionan más los ejercicios al aire libre. En las mañanas suelo correr y hacer calistenia y en las noches hago entrenamiento con pesas o bien trabajar fuera del gimnasio puede convertirse en mi entrenamiento del día. En resumidas cuentas, **la variedad** en la forma de entrenar se convirtió en mi prioridad para mantener un enfoque activo y hacerlos más divertidos.
 
 
-En la segunda parte, estaré hablando más a fondo sobre mi suplementación y ciertos habitos que tomé en cuenta para maximizar mis resultados como lo son:
+En la segunda parte, estaré hablando más a fondo sobre varios habitos que tomé en cuenta para maximizar mis resultados como lo son:
 > - El ayuno intermitente
-> - Suplementación
+> - Suplementación deportiva
 > - Ejercicios basicos diarios
 
 Mantente al tanto. ¡Aún tengo mucha información qué brindarles!
