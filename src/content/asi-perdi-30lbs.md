@@ -8,7 +8,10 @@ draft: false
 image: img/dominada.jpeg
 ---
 
-#### El año pasado...
+En esta serie de posts, estaré detallando a brevedad todos los pasos que tomé para reacondicionar mi cuerpo y sobretodo a llevarlo a niveles que nunca habia logrado antes con unos sencillos pasos que tu también puedes comenzar a hacer desde ya.
+
+Esta parte es introductoria, en ella sólo expondré ciertos aspectos psicologicos y no tan tecnicos sobre lo que hice. Sin embargo, es de vital importancia tomarlos en cuenta antes de ir más allá y poder continuar con este pequeño pero gratificante experimento.
+
 Había propuesto como meta  _Revivir Mis Músculos_. Tenía muchas ganas de verme cierto nivel de vascularidad nuevamente. Sin embargo, con temas del trabajo, grandes errores, una depresión temporal, ansiedad y un terrible deseo de procastinación, lo único que logré fue matar aún más mis músculos, subiendo unas 22 libras aproximadamente. Esto quiere decir que ya con sobrepeso inicialmente (unas 202 libras) gané unas 22 más, con un bello total de **224lbs**.
 
 Esto me trajo como consecuencia varios puntos que me afectaron tanto emocional como fisicamente:
@@ -51,7 +54,10 @@ Al momento de volver al gimnasio, mis entrenamientos del gimnasio son las rutina
 
 No siempre voy al gimnasio. Me apasionan más los ejercicios al aire libre. En las mañanas suelo correr y hacer calistenia y en las noches hago entrenamiento con pesas o bien trabajar fuera del gimnasio puede convertirse en mi entrenamiento del día. En resumidas cuentas, **la variedad** en la forma de entrenar se convirtió en mi prioridad para mantener un enfoque activo y hacerlos más divertidos.
 
+
 En la segunda parte, estaré hablando más a fondo sobre mi suplementación y ciertos habitos que tomé en cuenta para maximizar mis resultados como lo son:
 > - El ayuno intermitente
 > - Suplementación
 > - Ejercicios basicos diarios
+
+Mantente al tanto. ¡Aún tengo mucha información qué brindarles!
