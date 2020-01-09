@@ -22,7 +22,7 @@ Esto me trajo como consecuencia varios puntos que me afectaron tanto emocional c
 - Perdí totalmente mi fuerza de agarre. No podía sostenerme de una barra por unos cuantos segundos.
 - Tenía ciertos punzones en el corazón de vez en cuando. Un electrocardiograma arrojó que tenía una leve pericarditis (inflamación del pericardio por retención de líquidos)
 
-No soporte la idea de seguir en este trético estado, por lo que inmediatamente puse cartas en el asunto. 
+No soporte la idea de seguir en este trético estado, por lo que inmediatamente puse cartas en el asunto.
 <hr />
 
 ##### Cambié mi enfoque
@@ -31,7 +31,7 @@ No soporte la idea de seguir en este trético estado, por lo que inmediatamente 
 
 ### Extravié la palabra dieta
 
-Tal vez esto te suene un poco confuso ya que inmediatamente relacionamos el termino a la perdida de grasa y peso; y es cierto. No obstante, precisamente por esto es que recomiendo **no hacer una** o bien usar esta palabra. Cuando escuchamos la palabra dieta, nuestra mente inmediatamente la relaciona con *restriccion*, *dejar de comer*, *limitate* lo cuál nos hacer ver esto como algo dificil o tal vez innalcanzable; sobretodo en un mundo tan fabricado y procesado como lo es hoy en día.
+Tal vez esto te suene un poco confuso ya que inmediatamente relacionamos el termino a la perdida de grasa y peso; y es cierto. No obstante, precisamente por esto es que recomiendo **no hacer una** o bien usar esta palabra. Cuando escuchamos la palabra dieta, nuestra mente inmediatamente la relaciona con *restriccion*, *dejar de comer*, *limitarse* lo cuál nos hacer ver esto como algo dificil o tal vez innalcanzable; sobretodo en un mundo tan fabricado y procesado como lo es hoy en día.
 
 **¿Sigues a alguien en las redes que siempre tienen un fisico estetico?**
 
