@@ -4,7 +4,7 @@ author: Gian
 title: 'Perdí 30 libras en 12 semanas. Esto fue lo que hice (parte 2)'
 date: 2020-01-21 00:00:15
 tags: ["Divergente"]
-draft: false
+draft: true
 image: img/running.jpg
 ---
 
