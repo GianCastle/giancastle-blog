@@ -55,8 +55,7 @@ Antes de volver al gimnasio trabajé mi mentalidad de manera tal que cree un peq
 
 No siempre voy al gimnasio. Me apasionan más los ejercicios al aire libre. En las mañanas suelo correr y hacer calistenia y en las noches hago entrenamiento con pesas o bien trabajar fuera del gimnasio puede convertirse en mi entrenamiento del día. En resumidas cuentas, **la variedad** en la forma de entrenar se convirtió en mi prioridad para mantener un enfoque activo y hacerlos más divertidos.
 
-
-En la segunda parte, estaré hablando más a fondo sobre varios habitos que tomé en cuenta para maximizar mis resultados como lo son:
+En la otras entregas, estaré hablando más a fondo sobre varios habitos que tomé en cuenta para maximizar mis resultados como lo son:
 > - El ayuno intermitente
 > - Suplementación deportiva
 > - Ejercicios basicos diarios
