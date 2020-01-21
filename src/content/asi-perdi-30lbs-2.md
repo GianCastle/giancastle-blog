@@ -16,8 +16,9 @@ Esta vez vamos de lleno con algunos topicos los cuales fueron **claves** para te
 - Comer más grasas para bajar la grasa
 
 Antes que nada, chicos. Un ojo con lo siguiente antes de seguir:
+<hr />
 
-> **Esta fue mi experiencia**...
+>**Esta fue mi experiencia**...
 >
 > Es probable que pienses que el que me haya ido bien con estas recomendaciones, también puede irte igual. Recordemos que cada cuerpo responde de manera diferente. Somos un mundo de oportunidades y consecuencias en base a nuestras circunstancias. Mi recomendación es que tomes mi experiencia y mis resultados como una base para los tuyos. Es altamente recomendable que busques una asesoria profesional. Yo sólo soy alguien apasionado; alguien que le encanta conocer y compartir el conocimiento.
 
@@ -96,4 +97,6 @@ Ya mencioné algunos dentro de los tipos. Ahora ¿Cómo he manejado las grasas?
 
     Por el lado de las almendras, mi recomendación es que la compres en supermercados donde sus productos sean de importación o sean supermercados de membresía en su mayoria (como Pricesmart); ahi los frutos secos salen mucho más baratos.
 
-#### En la siguiente parte (3), voy a tratar como unico topico los ejercicios; tanto fuera como dentro del gimnasio y algunos que hago al momento de despertarme. 
+El ayuno intermitente me ha ayudado a equilibrar mis comidas, ha reducido mi ansiedad 
+
+#### En la siguiente parte (3), voy a tratar como unico topico los ejercicios; tanto fuera como dentro del gimnasio y algunos que hago al momento de despertarme. Mantente al tanto, que 

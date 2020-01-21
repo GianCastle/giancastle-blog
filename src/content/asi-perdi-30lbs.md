@@ -12,6 +12,14 @@ En esta serie de posts, estaré detallando a brevedad todos los pasos que tomé 
 
 Esta parte es introductoria, en ella sólo expondré ciertos aspectos psicologicos y no tan tecnicos sobre lo que hice. Sin embargo, es de vital importancia tomarlos en cuenta antes de ir más allá y poder continuar con este pequeño pero gratificante experimento.
 
+Antes que nada, chicos. Un ojo con lo siguiente antes de seguir:
+<hr />
+
+>Esta fue mi experiencia…
+>
+> Es probable que pienses que el que me haya ido bien con estas recomendaciones, también puede irte igual. Recordemos que cada cuerpo responde de manera diferente. Somos un mundo de oportunidades y consecuencias en base a nuestras circunstancias. Mi recomendación es que tomes mi experiencia y mis resultados como una base para los tuyos. Es altamente recomendable que busques una asesoria profesional. Yo sólo soy alguien apasionado; alguien que le encanta conocer y compartir el conocimiento.
+
+<hr />
 Había propuesto como meta  _Revivir Mis Músculos_. Tenía muchas ganas de verme vasculado nuevamente. Sin embargo, con temas del trabajo, grandes errores, una depresión temporal, ansiedad y un terrible deseo de procastinación, lo único que logré fue matar aún más mis músculos, subiendo unas 22 libras aproximadamente. Esto quiere decir que ya con sobrepeso inicialmente (unas 202 libras) gané unas 22 más, con un bello total de **224**.
 
 Esto me trajo como consecuencia varias cosas que me afectaron tanto emocional como fisicamente:
