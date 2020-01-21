@@ -15,7 +15,7 @@ Esta parte es introductoria, en ella sólo expondré ciertos aspectos psicologic
 Antes que nada, chicos. Un ojo con lo siguiente antes de seguir:
 <hr />
 
->Esta fue mi experiencia…
+>**Esta fue mi experiencia…**
 >
 > Es probable que pienses que el que me haya ido bien con estas recomendaciones, también puede irte igual. Recordemos que cada cuerpo responde de manera diferente. Somos un mundo de oportunidades y consecuencias en base a nuestras circunstancias. Mi recomendación es que tomes mi experiencia y mis resultados como una base para los tuyos. Es altamente recomendable que busques una asesoria profesional. Yo sólo soy alguien apasionado; alguien que le encanta conocer y compartir el conocimiento.
 
