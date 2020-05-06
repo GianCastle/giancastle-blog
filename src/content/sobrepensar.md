@@ -1,5 +1,5 @@
 --- 
-author: Naig
+author: Gian
 draft: false
 
 title: 'El sobrepensamiento'
@@ -34,7 +34,7 @@ Aquellas "Algunas Personas" somos nosotros... los que pensamos en exceso o Overt
 
 **Nuestro presente**
 
-> Está bien, Naig. Tu me hablas de que nosotros no conseguimos generar soluciones a esos problemas que nos llegan a la mente, que ni han llegado o que ya fueron. Pero entonce... ¿como podemos deja de tiranos una y otra vez para aquella pared?
+> Está bien, Gian. Tu me hablas de que nosotros no conseguimos generar soluciones a esos problemas que nos llegan a la mente, que ni han llegado o que ya fueron. Pero entonce... ¿como podemos deja de tiranos una y otra vez para aquella pared?
 
 <hr />
 

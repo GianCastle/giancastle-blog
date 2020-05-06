@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Naig
+author: Gian
 title: 'Falsa democracia'
 date: 2020-02-22 00:06:15
 tags: ['Analitico']
