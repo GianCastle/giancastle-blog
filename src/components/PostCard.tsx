@@ -1,13 +1,13 @@
-import { Link } from 'gatsby';
-import Img from 'gatsby-image';
-import * as _ from 'lodash';
-import { lighten } from 'polished';
 import * as React from 'react';
-import styled from '@emotion/styled';
-import { css } from '@emotion/core';
+import * as _ from 'lodash';
 
-import { colors } from '../styles/colors';
+import Img from 'gatsby-image';
+import { Link } from 'gatsby';
 import { PageContext } from '../templates/post';
+import { colors } from '../styles/colors';
+import { css } from '@emotion/core';
+import { lighten } from 'polished';
+import styled from '@emotion/styled';
 
 const PostCardStyles = css`
   flex: 1 1 300px;
@@ -208,12 +208,12 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
             {post.frontmatter.image &&
               post.frontmatter.image.childImageSharp &&
               post.frontmatter.image.childImageSharp.fluid && (
-              <Img
-                alt={`${post.frontmatter.title} cover image`}
-                style={{ height: '100%' }}
-                fluid={post.frontmatter.image.childImageSharp.fluid}
-              />
-            )}
+                <Img
+                  alt={`${post.frontmatter.title} cover image`}
+                  style={{ height: '100%' }}
+                  fluid={post.frontmatter.image.childImageSharp.fluid}
+                />
+              )}
           </PostCardImage>
         </Link>
       )}

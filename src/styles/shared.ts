@@ -1,7 +1,8 @@
+import { darken, lighten } from 'polished';
+
+import { colors } from './colors';
 import { css } from '@emotion/core';
 import styled from '@emotion/styled';
-import { colors } from './colors';
-import { darken, lighten } from 'polished';
 
 export const outer = css`
   position: relative;
@@ -80,6 +81,16 @@ export const SiteHeader = css`
   /* background: color(var(--darkgrey) l(-5%)) no-repeat center center; */
   background: ${darken('0.05', colors.darkgrey)} no-repeat center center;
   background-size: cover;
+`;
+
+export const SiteHero = styled.div`
+  display: flex;
+  min-width: 500px;
+  min-height: 500px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
 `;
 
 export const SiteHeaderContent = styled.div`

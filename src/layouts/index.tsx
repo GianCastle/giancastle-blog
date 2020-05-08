@@ -1,8 +1,9 @@
+import * as React from 'react';
+
 import { Global, css } from '@emotion/core';
 import { darken, lighten } from 'polished';
-import * as React from 'react';
-import Helmet from 'react-helmet';
 
+import Helmet from 'react-helmet';
 import { colors } from '../styles/colors';
 // @ts-ignore
 import favicon from '../../src/favicon.ico';
@@ -71,7 +72,6 @@ const GlobalStyles = css`
   td,
   article,
   aside,
-  canvas,
   details,
   embed,
   figure,
@@ -301,7 +301,6 @@ const GlobalStyles = css`
   }
 
   audio,
-  canvas,
   iframe,
   img,
   svg,
@@ -477,9 +476,22 @@ const GlobalStyles = css`
   body {
     background: #f4f8fb;
   }
+
+  .vertical-timeline:before {
+    width: 1px !important;
+    margin-left: -1px !important;
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+
+  #tsparticles {
+    position: absolute;
+    z-index: 100;
+    min-width: 100%;
+    min-height: 100%;
+  }
 `;
 
-const IndexLayout: React.FC<IndexProps> = props => {
+const IndexLayout: React.FC<IndexProps> = (props) => {
   return (
     <div className={props.className}>
       <Helmet>
