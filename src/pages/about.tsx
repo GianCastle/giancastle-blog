@@ -1,14 +1,9 @@
 import {
-  PostFeed,
-  PostFeedRaise,
   SiteDescription,
   SiteHeader,
-  SiteHeaderContent,
   SiteHero,
-  SiteIntro,
   SiteMain,
   SiteTitle,
-  flexAlign,
   inner,
   outer,
 } from '../styles/shared';
