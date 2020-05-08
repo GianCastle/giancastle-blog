@@ -1,12 +1,13 @@
-import { Link } from 'gatsby';
-import { setLightness } from 'polished';
 import * as React from 'react';
-import styled from '@emotion/styled';
-import { css } from '@emotion/core';
 
+import { inner, outer } from '../styles/shared';
+
+import { Link } from 'gatsby';
 import { colors } from '../styles/colors';
-import { outer, inner } from '../styles/shared';
 import config from '../website-config';
+import { css } from '@emotion/core';
+import { setLightness } from 'polished';
+import styled from '@emotion/styled';
 
 const SiteFooter = css`
   position: relative;
@@ -71,11 +72,7 @@ const Footer: React.FC = () => {
       <div css={[inner, SiteFooterContent]}>
         <section className="copyright">
           <Link to="/">{config.title}</Link> &copy; {new Date().getFullYear()}{' '}
-          {config.footer && (
-            <Link to="/">
-              | {config.footer}
-            </Link>
-          )}
+          {config.footer && <Link to="/">| {config.footer}</Link>}
         </section>
         <SiteFooterNav>
           <Link to="/">Ultimas entradas</Link>
@@ -91,6 +88,7 @@ const Footer: React.FC = () => {
           )}
 
           <a href="/rss.xml">RSS</a>
+          <a href="/about">A bit of GianCastle</a>
         </SiteFooterNav>
       </div>
     </footer>
