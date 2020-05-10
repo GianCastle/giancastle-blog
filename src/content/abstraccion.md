@@ -5,7 +5,7 @@ title: 'Abstracción'
 date: 2019-08-16 00:06:15
 tags: ['Abstracto']
 draft: false
-image: img/abstraction.jpeg
+image: img/abstraction.jpg
 ---
 
 Todos hemos oído hablar de ceros y unos que, a nivel físico, se traducen en uno (1) para la presencia de corriente eléctrica y cero (0) para su ausencia. Es así de simple… incluso sabiendo que lo que hace nuestro procesador son simples operaciones aritméticas. Con estos dos valores, al final la complejidad resulta alarmante y la verdad es que realmente lo es y es más bien raro que un solo hombre conozca y entienda con detalle absolutamente todas las partes que componen esta compleja máquina. No dista tanto de cómo funciona el mundo real donde también tenemos una gran complejidad.
