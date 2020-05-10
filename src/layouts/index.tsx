@@ -485,9 +485,13 @@ const GlobalStyles = css`
 
   #tsparticles {
     position: absolute;
-    z-index: 100;
+    z-index: 2;
     min-width: 100%;
-    min-height: 100%;
+    min-height: 100vh;
+  }
+
+  #tsparticles canvas {
+    height: 100vh !important;
   }
 `;
 

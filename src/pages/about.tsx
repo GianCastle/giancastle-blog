@@ -1,6 +1,7 @@
 import {
   SiteDescription,
   SiteHeader,
+  SiteHeaderHero,
   SiteHero,
   SiteMain,
   SiteTitle,
@@ -16,17 +17,40 @@ import SiteNav from '../components/header/SiteNav';
 import { StarGazer } from '../components/StarGazer';
 import { Timeline } from '../components/Timeline';
 import Wrapper from '../components/Wrapper';
+import { css } from '@emotion/core';
 import { graphql } from 'gatsby';
 import styled from '@emotion/styled';
 
 const Intro = styled.div`
   border: 2px solid #fff;
-  padding: 4vh;
-  display: flex;
+  padding: 2vh;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 100px;
+  text-align: center;
+`;
+
+export const CallOut = css`
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  background-color: #0a0b0d;
+`;
+
+const HeroContent = css`
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+  background-color: #0a0b0d;
+  color: white;
+`;
+
+const NavWrapper = styled.div`
+  padding: 4vh;
 `;
 
 const About = () => (
@@ -35,18 +59,18 @@ const About = () => (
       <title>About me</title>
     </Helmet>
     <Wrapper>
-      <header css={[outer, SiteHeader]}>
-        <SiteNav />
-        <div css={[inner]}>
-          <SiteHero>
-            <StarGazer />
-            <Intro>
-              <SiteTitle style={{ textTransform: 'uppercase', fontWeight: 'bold' }}>
-                I'm Giancarlos Castillo
-              </SiteTitle>
-              <SiteDescription>Frontend maniac, backend enthusiastic</SiteDescription>
-            </Intro>
-          </SiteHero>
+      <StarGazer />
+      <header css={[CallOut]}>
+        <NavWrapper>
+          <SiteNav />
+        </NavWrapper>
+        <div css={HeroContent}>
+          <Intro>
+            <SiteTitle style={{ textTransform: 'uppercase', fontWeight: 'bold' }}>
+              I'm Giancarlos Castillo
+            </SiteTitle>
+            <SiteDescription>Frontend maniac, backend enthusiastic</SiteDescription>
+          </Intro>
         </div>
       </header>
       <main

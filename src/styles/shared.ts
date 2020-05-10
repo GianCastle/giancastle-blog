@@ -25,8 +25,8 @@ export const SiteTitle = styled.h1`
   z-index: 10;
   margin: 0;
   padding: 0;
-  font-size: 3.8rem;
-  font-weight: 700;
+  font-size: 5rem;
+  font-weight: bolder;
 `;
 
 export const SiteDescription = styled.h2`
@@ -81,6 +81,18 @@ export const SiteHeader = css`
   /* background: color(var(--darkgrey) l(-5%)) no-repeat center center; */
   background: ${darken('0.05', colors.darkgrey)} no-repeat center center;
   background-size: cover;
+`;
+
+export const SiteHeaderHero = css`
+  position: relative;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: #fff;
+  display: flex;
+  background: ${darken('0.05', colors.darkgrey)} no-repeat center center;
+  background-size: cover;
+  flex-direction: column;
+  height: 100vh;
 `;
 
 export const SiteHero = styled.div`
