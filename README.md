@@ -1,9 +1,9 @@
 # GianCastle
 
- Extended version of Gatsby Casper template 
- (https://github.com/scttcper/gatsby-casper)
+Sitio web personal donde comparto mi manera de pensar. 📖🤔
 
-- ~98-100pts Google Lighthouse score
-- 
-# TODO
-[] Docs
+- 96pts en Google Lighthouse `(may 11 2020)`
+- Fully Responsive
+- Soporte para multiple autores 🤳🏽
+- Emotion/Core CSS modules 🎨
+- Gatsby / React ⚛️
