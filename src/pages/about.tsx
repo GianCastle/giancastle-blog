@@ -69,7 +69,7 @@ const About = () => (
             <SiteTitle style={{ textTransform: 'uppercase', fontWeight: 'bold' }}>
               I'm Giancarlos Castillo
             </SiteTitle>
-            <SiteDescription>Frontend maniac, backend enthusiastic</SiteDescription>
+            <SiteDescription>Dreamer, frontend maniac, backend enthusiastic</SiteDescription>
           </Intro>
         </div>
       </header>
