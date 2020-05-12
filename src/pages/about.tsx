@@ -1,9 +1,7 @@
 import {
   SiteDescription,
-  SiteHeader,
-  SiteHeaderHero,
-  SiteHero,
   SiteMain,
+  SiteSectionTitle,
   SiteTitle,
   inner,
   outer,
@@ -18,11 +16,21 @@ import { StarGazer } from '../components/StarGazer';
 import { Timeline } from '../components/Timeline';
 import Wrapper from '../components/Wrapper';
 import { css } from '@emotion/core';
-import { graphql } from 'gatsby';
 import styled from '@emotion/styled';
 
+const MainAbout = styled.main`
+  background-color: #0a0b0d;
+  border-top: 1px solid rgba(255, 255, 255, 0.4);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+`;
+
+const HeroTitle = styled(SiteTitle)`
+  text-transform: uppercase;
+  font-weight: bold;
+`;
+
 const Intro = styled.div`
-  border: 2px solid #fff;
+  border: 2px sold #fff;
   padding: 2vh;
   flex-direction: column;
   align-items: center;
@@ -66,41 +74,20 @@ const About = () => (
         </NavWrapper>
         <div css={HeroContent}>
           <Intro>
-            <SiteTitle style={{ textTransform: 'uppercase', fontWeight: 'bold' }}>
-              I'm Giancarlos Castillo
-            </SiteTitle>
+            <HeroTitle>I'm Giancarlos Castillo</HeroTitle>
             <SiteDescription>Dreamer, frontend maniac, backend enthusiastic</SiteDescription>
           </Intro>
         </div>
       </header>
-      <main
-        id="site-main"
-        css={[SiteMain, outer]}
-        style={{
-          backgroundColor: '#0a0b0d',
-          borderTop: '1px solid rgba(255,255,255, 0.4)',
-          borderBottom: '1px solid rgba(255,255,255, 0.4)',
-        }}
-      >
+      <MainAbout id="site-main" css={[SiteMain, outer]}>
+        <SiteSectionTitle>Where have I been?</SiteSectionTitle>
         <div css={inner}>
           <Timeline />
         </div>
-      </main>
+      </MainAbout>
       <Footer />
     </Wrapper>
   </IndexLayout>
 );
-
-export const heroBackgroundQuery = graphql`
-  query heroBackgroundQuery {
-    hero: file(relativePath: { eq: "img/smile.png" }) {
-      childImageSharp {
-        fixed {
-          src
-        }
-      }
-    }
-  }
-`;
 
 export default About;
