@@ -29,6 +29,23 @@ export const SiteTitle = styled.h1`
   font-weight: bolder;
 `;
 
+export const SiteSectionTitle = styled.h2`
+  z-index: 10;
+  margin: 0;
+  padding: 0;
+  font-size: 4rem;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bolder;
+  border-top: none;
+  border-left: 1px solid rgba(255, 255, 255, 0.4);
+  border-right: 1px solid rgba(255, 255, 255, 0.4);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+`;
+
 export const SiteDescription = styled.h2`
   z-index: 10;
   margin: 0;
