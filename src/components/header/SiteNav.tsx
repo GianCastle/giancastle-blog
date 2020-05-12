@@ -133,16 +133,11 @@ class SiteNav extends React.Component<SiteNavProps> {
           {!isHome && <SiteNavLogo />}
           <ul css={NavStyles} role="menu">
             {/* TODO: mark current nav item - add class nav-current */}
-            <li role="menuitem">
+            {/* <li role="menuitem">
               <Link activeClassName="nav-current" to="/">
                 Inicio
               </Link>
-            </li>
-            <li role="menuitem">
-              <Link activeClassName="nav-current" to="/author/gian">
-                Acerca del autor
-              </Link>
-            </li>
+            </li> */}
           </ul>
         </SiteNavLeft>
         <SiteNavRight>
