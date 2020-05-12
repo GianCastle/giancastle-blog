@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'GianCastle',
     description: 'Un simple habito, un profundo desahogo',
-    siteUrl: 'https://giancastle.com', // full path to blog - no ending slash
+    siteUrl: 'https://giancastle.com',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
@@ -37,7 +37,7 @@ module.exports = {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 1170,
-              quality: 100,
+              quality: 80,
             },
           },
         ],
@@ -47,7 +47,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://gatsby-casper.netlify.com',
+        siteUrl: 'https://giancastle.com',
       },
     },
     'gatsby-plugin-emotion',
