@@ -1,32 +1,54 @@
 /* eslint-disable react/jsx-key */
 import 'react-vertical-timeline-component/style.min.css';
 
+import React, { FC } from 'react';
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
 
-import React from 'react';
 import styled from '@emotion/styled';
 
 const data = [
   {
-    position: 'Web Developer',
+    position: 'Cofounder - Web Developer Manager',
     where: 'Castle Studio',
     when: '2015 - 2017',
-    description:
-      'With two friends and me, we created a team under the name of Castle Studio while we was doing our carrer at the university where we developed and maintained the correct functionality of several websites and desktop applications.',
+    description: [
+      'Cofounder of a devshop with over 5 customers in industries like retail and health.',
+      'Helped 5 companies ship and market their products by implementing e-commerce in and WordPress solutions.',
+      'Created 2  custom Windows Desktop applications that helped companies maintain constant control of their inputs and capital.',
+    ],
   },
   {
-    position: 'Jr. Software Engineer',
+    position: 'Software Engineer',
     where: 'GBH',
     when: '2017 - 2018',
-    description:
-      'Produce and improve existing code for several projects while assisting the Technical Lead with some design and technical decisions that improve our software development experience and product delivery by 37%.',
+    description: [
+      'Produced and improve existing code for over 4 projects with short deadlines',
+      'Assisted Technical Leads with some design and technical decisions that creates an impact to product delivery by 37 %.',
+      'Mentored 2 newcomers Software Engineers that created an impact on the company in a period of 15 days',
+    ],
   },
   {
-    position: 'Mid. Software Engineer',
+    position: 'Mid-Senior Software Engineer',
     where: 'GBH',
     when: '2018 - 2020',
-    description:
-      'Produce and improve code for several projects. The responsibilities range from creating project initials structure, taking both low-level and high-level architecture decisions, and mentoring new Software Engineers.',
+    description: [
+      'Modernized +4 apps by moving from legacy technologies to state-of-the-art frontend frameworks.',
+      'Improved onboarding time in 3x by creating React custom starters with the industry’s best practices.',
+      'Builded over 6 highly reliable Wordpress Sites using modern frontend tooling.',
+      'Improved product delivery time in +35% by enhancing the architecture of our React apps.',
+      'Develop and succesfully deployed 2 NodeJS and 1 Laravel APIs to AWS and Heroku.',
+      'Mentored 3 new software engineers.',
+    ],
+  },
+  {
+    position: 'React Native Developer',
+    where: 'Freelance ',
+    when: '2020',
+    description: [
+      'Develop new mobile application on Android and IOS for small businesses.',
+      'Building reusable components and front-end libraries for future use',
+      'Took initiative in learning react native and went on to successfully develop various features under minimal supervision.',
+    ],
   },
 ];
 
@@ -38,7 +60,26 @@ const TimelineElementSub = styled.h4`
   margin: 0;
 `;
 
-const TimelineCard = ({ position, where, when, description }) => (
+type TimeLinedescriptionItemsProps = {
+  description: string[];
+};
+
+type TimeLineCardProps = {
+  position: string;
+  where: string;
+  when: string;
+  description: string[];
+};
+
+const TimeLineDescriptionItems: FC<TimeLinedescriptionItemsProps> = ({ description }) => (
+  <ul>
+    {description.map(bullePoint => (
+      <li>{bullePoint}</li>
+    ))}
+  </ul>
+);
+
+const TimelineCard: FC<TimeLineCardProps> = ({ position, where, when, description }) => (
   <VerticalTimelineElement
     contentStyle={{
       backgroundColor: 'transparent',
@@ -54,14 +95,18 @@ const TimelineCard = ({ position, where, when, description }) => (
   >
     <TimelineElementTitle>{position}</TimelineElementTitle>
     <TimelineElementSub>{where}</TimelineElementSub>
-    <p>{description}</p>
+    {Array.isArray(description) ? (
+      <TimeLineDescriptionItems description={description} />
+    ) : (
+      <p>{description}</p>
+    )}
   </VerticalTimelineElement>
 );
 
 export const Timeline = () => (
   <VerticalTimeline className="vertical-timeline-custom-line">
-    {data.map((j) => (
-      <TimelineCard {...j} />
+    {data.map(jobs => (
+      <TimelineCard {...jobs} />
     ))}
   </VerticalTimeline>
 );
