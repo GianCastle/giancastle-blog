@@ -9,6 +9,10 @@ export const outer = css`
   padding: 0 4vw;
 `;
 
+export const withTopBorder = css`
+  border-top: 1px solid #6b6c6d;
+`;
+
 // Centered content container blocks
 export const inner = css`
   margin: 0 auto;

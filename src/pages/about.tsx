@@ -5,6 +5,7 @@ import {
   SiteTitle,
   inner,
   outer,
+  withTopBorder,
 } from '../styles/shared';
 
 import Footer from '../components/Footer';
@@ -22,6 +23,10 @@ const MainAbout = styled.main`
   background-color: #0a0b0d;
   border-top: 1px solid rgba(255, 255, 255, 0.4);
   border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+`;
+
+const Section = styled.section`
+  background-color: #0a0b0d;
 `;
 
 const HeroTitle = styled(SiteTitle)`
@@ -64,7 +69,7 @@ const NavWrapper = styled.div`
 const About = () => (
   <IndexLayout>
     <Helmet>
-      <title>About me</title>
+      <title>I'm Giancarlos Castillo</title>
     </Helmet>
     <Wrapper>
       <StarGazer />
