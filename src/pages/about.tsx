@@ -5,7 +5,6 @@ import {
   SiteTitle,
   inner,
   outer,
-  withTopBorder,
 } from '../styles/shared';
 
 import Footer from '../components/Footer';
