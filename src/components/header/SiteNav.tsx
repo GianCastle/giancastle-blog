@@ -1,7 +1,6 @@
 import * as React from 'react';
 
 import Facebook from '../icons/facebook';
-// tslint:disable:no-http-string
 import { Link } from 'gatsby';
 import SiteNavLogo from './SiteNavLogo';
 import { SocialLink } from '../../styles/shared';
@@ -140,6 +139,11 @@ class SiteNav extends React.Component<SiteNavProps> {
             <li role="menuitem">
               <Link activeClassName="nav-current" to="/">
                 Inicio
+              </Link>
+            </li>
+            <li role="menuitem">
+              <Link activeClassName="nav-current" to="/engineering">
+                Ingeniería
               </Link>
             </li>
           </ul>
