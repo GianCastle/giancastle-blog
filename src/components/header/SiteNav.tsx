@@ -116,6 +116,11 @@ interface SiteNavProps {
   isHome?: boolean;
 }
 
+/**
+ * @TODO
+ * refactor to functional component
+ *
+ */
 class SiteNav extends React.Component<SiteNavProps> {
   subscribe = React.createRef<SubscribeModal>();
 
