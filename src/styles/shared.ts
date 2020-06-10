@@ -1,11 +1,16 @@
+import { darken, lighten } from 'polished';
+
+import { colors } from './colors';
 import { css } from '@emotion/core';
 import styled from '@emotion/styled';
-import { colors } from './colors';
-import { darken, lighten } from 'polished';
 
 export const outer = css`
   position: relative;
   padding: 0 4vw;
+`;
+
+export const withTopBorder = css`
+  border-top: 1px solid #6b6c6d;
 `;
 
 // Centered content container blocks
@@ -24,8 +29,25 @@ export const SiteTitle = styled.h1`
   z-index: 10;
   margin: 0;
   padding: 0;
-  font-size: 3.8rem;
-  font-weight: 700;
+  font-size: 5rem;
+  font-weight: bolder;
+`;
+
+export const SiteSectionTitle = styled.h2`
+  z-index: 10;
+  margin: 0;
+  padding: 0;
+  font-size: 4rem;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bolder;
+  border-top: none;
+  border-left: 1px solid rgba(255, 255, 255, 0.4);
+  border-right: 1px solid rgba(255, 255, 255, 0.4);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
 `;
 
 export const SiteDescription = styled.h2`
@@ -80,6 +102,28 @@ export const SiteHeader = css`
   /* background: color(var(--darkgrey) l(-5%)) no-repeat center center; */
   background: ${darken('0.05', colors.darkgrey)} no-repeat center center;
   background-size: cover;
+`;
+
+export const SiteHeaderHero = css`
+  position: relative;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: #fff;
+  display: flex;
+  background: ${darken('0.05', colors.darkgrey)} no-repeat center center;
+  background-size: cover;
+  flex-direction: column;
+  height: 100vh;
+`;
+
+export const SiteHero = styled.div`
+  display: flex;
+  min-width: 500px;
+  min-height: 500px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
 `;
 
 export const SiteHeaderContent = styled.div`

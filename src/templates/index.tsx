@@ -1,19 +1,6 @@
-import { graphql } from 'gatsby';
 import * as React from 'react';
-import { css } from '@emotion/core';
-import Helmet from 'react-helmet';
-
-import Footer from '../components/Footer';
-import SiteNav from '../components/header/SiteNav';
-import PostCard from '../components/PostCard';
-import Wrapper from '../components/Wrapper';
-import IndexLayout from '../layouts';
-import config from '../website-config';
-import Pagination from '../components/Pagination';
 
 import {
-  inner,
-  outer,
   PostFeed,
   PostFeedRaise,
   SiteDescription,
@@ -21,8 +8,21 @@ import {
   SiteHeaderContent,
   SiteMain,
   SiteTitle,
+  inner,
+  outer,
 } from '../styles/shared';
+
+import Footer from '../components/Footer';
+import Helmet from 'react-helmet';
+import IndexLayout from '../layouts';
 import { PageContext } from './post';
+import Pagination from '../components/Pagination';
+import PostCard from '../components/PostCard';
+import SiteNav from '../components/header/SiteNav';
+import Wrapper from '../components/Wrapper';
+import config from '../website-config';
+import { css } from '@emotion/core';
+import { graphql } from 'gatsby';
 
 const HomePosts = css`
   @media (min-width: 795px) {
@@ -90,7 +90,7 @@ export interface IndexProps {
   };
 }
 
-const IndexPage: React.FC<IndexProps> = props => {
+const IndexPage: React.FC<IndexProps> = (props) => {
   const width = props.data.header.childImageSharp.fluid.sizes.split(', ')[1].split('px')[0];
   const height = String(Number(width) / props.data.header.childImageSharp.fluid.aspectRatio);
   return (
@@ -104,13 +104,18 @@ const IndexPage: React.FC<IndexProps> = props => {
         <meta property="og:title" content={config.title} />
         <meta property="og:description" content={config.description} />
         <meta property="og:url" content={config.siteUrl} />
-        <meta name="google-site-verification" content="DlUfVqtoaxUPMQWq4IKax4nPhkcFV8Zzu1sjkYEPUyM" />
+        <meta
+          name="google-site-verification"
+          content="DlUfVqtoaxUPMQWq4IKax4nPhkcFV8Zzu1sjkYEPUyM"
+        />
         <meta
           property="og:image"
           content={`${config.siteUrl}${props.data.header.childImageSharp.fluid.src}`}
         />
         {config.facebook && <meta property="article:publisher" content={config.facebook} />}
-        {config.googleSiteVerification && <meta name="google-site-verification" content={config.googleSiteVerification} />}
+        {config.googleSiteVerification && (
+          <meta name="google-site-verification" content={config.googleSiteVerification} />
+        )}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={config.title} />
         <meta name="twitter:description" content={config.description} />
@@ -156,7 +161,7 @@ const IndexPage: React.FC<IndexProps> = props => {
         <main id="site-main" css={[SiteMain, outer]}>
           <div css={inner}>
             <div css={[PostFeed, PostFeedRaise]}>
-              {props.data.allMarkdownRemark.edges.map(post => {
+              {props.data.allMarkdownRemark.edges.map((post) => {
                 // filter out drafts in production
                 return (
                   (post.node.frontmatter.draft !== true ||
@@ -169,7 +174,10 @@ const IndexPage: React.FC<IndexProps> = props => {
           </div>
         </main>
         {props.children}
-        <Pagination currentPage={props.pageContext.currentPage} numPages={props.pageContext.numPages} />
+        <Pagination
+          currentPage={props.pageContext.currentPage}
+          numPages={props.pageContext.numPages}
+        />
         <Footer />
       </Wrapper>
     </IndexLayout>
@@ -199,9 +207,9 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC },
-      filter: { frontmatter: { draft: { ne: true } } },
-      limit: $limit,
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { frontmatter: { draft: { ne: true } } }
+      limit: $limit
       skip: $skip
     ) {
       edges {

@@ -54,6 +54,8 @@
     "react-dom": "16.8.6",
     "react-emotion": "10.0.0",
     "react-helmet": "5.2.1",
+    "react-particles-js": "^3.2.1",
+    "react-vertical-timeline-component": "^2.6.2",
     "rehype-react": "4.0.1"
   },
   "devDependencies": {
@@ -63,6 +65,7 @@
     "@types/react": "16.8.23",
     "@types/react-dom": "16.8.4",
     "@types/react-helmet": "5.0.8",
+    "@types/react-vertical-timeline-component": "^2.5.0",
     "@typescript-eslint/eslint-plugin": "1.13.0",
     "@typescript-eslint/parser": "1.13.0",
     "babel-plugin-styled-components": "1.10.6",

@@ -1,17 +1,8 @@
 - id: Gian
   avatar: avatars/ghost.png
-  bio: A man of soul, living the lonely life of the road
+  bio: Soy alguien que siempre hace cardio en el camino de la excelencia. Pensar demasiado es mi espada de doble filo. Me encanta programar, cargar cosas pesadas y hablar de cualquier idea.
   twitter: https://twitter.com/giancastle
   facebook: https://facebook.com/giancastle
   website: https://instagram.com/castlegian
-  location: En un avión
-  profile_image: img/oceans.jpg
-
-- id: Naig
-  avatar: avatars/naig.jpeg
-  bio: A rational man, but haven't you heard? I'm also insane. It gives me a unique perspective on things
-  twitter: https://twitter.com/giancastle
-  facebook: https://facebook.com/giancastle
-  website: https://instagram.com/castlegian
-  location: En un barco
+  location: Santo Domingo, Rep.Dominicana
   profile_image: img/oceans.jpg

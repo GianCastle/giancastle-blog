@@ -1,15 +1,15 @@
+import * as React from 'react';
+
+import Facebook from '../icons/facebook';
 // tslint:disable:no-http-string
 import { Link } from 'gatsby';
-import * as React from 'react';
-import styled from '@emotion/styled';
-import { css } from '@emotion/core';
-
-import { SocialLink } from '../../styles/shared';
-import config from '../../website-config';
-import Facebook from '../icons/facebook';
-import Twitter from '../icons/twitter';
-import SubscribeModal from '../subscribe/SubscribeOverlay';
 import SiteNavLogo from './SiteNavLogo';
+import { SocialLink } from '../../styles/shared';
+import SubscribeModal from '../subscribe/SubscribeOverlay';
+import Twitter from '../icons/twitter';
+import config from '../../website-config';
+import { css } from '@emotion/core';
+import styled from '@emotion/styled';
 
 const HomeNavRaise = css`
   @media (min-width: 900px) {
@@ -116,6 +116,11 @@ interface SiteNavProps {
   isHome?: boolean;
 }
 
+/**
+ * @TODO
+ * refactor to functional component
+ *
+ */
 class SiteNav extends React.Component<SiteNavProps> {
   subscribe = React.createRef<SubscribeModal>();
 
@@ -132,12 +137,10 @@ class SiteNav extends React.Component<SiteNavProps> {
         <SiteNavLeft>
           {!isHome && <SiteNavLogo />}
           <ul css={NavStyles} role="menu">
-            {/* TODO: mark current nav item - add class nav-current */}
             <li role="menuitem">
-              <Link activeClassName="nav-current" to="/" >Inicio</Link>
-            </li>
-            <li role="menuitem">
-              <Link activeClassName="nav-current" to="/author/gian">Acerca de mi</Link>
+              <Link activeClassName="nav-current" to="/">
+                Inicio
+              </Link>
             </li>
           </ul>
         </SiteNavLeft>
