@@ -11,7 +11,7 @@ image: img/burnout.jpg
 
 No es raro en el campo de la programación quemarse o como se le conoce popularmente, _entrar en burnout_ y perder la pasión por nuestro trabajo. Solo es cuestion de navegar un poco por un portal como Stackexchange y buscar el termino burnout, notarás que habrán un centenar de preguntas que actuan como evidencia de que esto es un problema real y sobretodo muy normal en la industria del software y sin ir muy lejos, en toda la industria de TI.
 
-## ¿Pero, por qué pasa esto?
+### ¿Pero, por qué pasa esto?
 
 Ciertamente, no lo sé. Lo que si sé con certeza es que nuestro campo esto ocurre mucho más frecuente que en otras areas. Sin embargo, en mi humilde opinion pienso que pueden haber unas cuantas razones por las que nos ocurre esto...
 
