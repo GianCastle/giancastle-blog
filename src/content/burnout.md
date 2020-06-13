@@ -35,7 +35,7 @@ Puede ser que estés agotado porque el trabajo que haces es, de hecho, aburrido 
 
 ### Somos personas negativas por naturaleza
 
-> [El burnout es causado cuando repetidamente hacemos hacen grandes cantidades de sacrificio y/o esfuerzo en problemas de alto riesgo que fallan. Es el resultado de un error de predicción negativo en nuestro Núcleo Accumbens (una parte de nuestro cerebro que nos permite). Naturalmente, acondicionamos nuestro cerebro y su forma de pensar para asociar el trabajo con el fracaso](https://news.ycombinator.com/item?id=5630445)
+> [El burnout es causado cuando repetidamente hacemos hacen grandes cantidades de sacrificio y/o esfuerzo en problemas de alto riesgo que fallan. Es el resultado de un error de predicción negativo en nuestro Núcleo Accumbens (una parte de nuestro cerebro que nos permite "pensar"). Naturalmente, acondicionamos nuestro cerebro y su forma de pensar para asociar el trabajo con el fracaso](https://news.ycombinator.com/item?id=5630445)
 
 ¿Estás de acuerdo?... No hay un día sin que se produzcan fallos en la creación de software, nuestro trabajo consiste en la creación de esos fallos con o sin proposito y eventualmente ser solucionado. El software perfecto no existe.
 
